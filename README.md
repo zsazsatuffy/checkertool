@@ -19,6 +19,22 @@ With the 'checker tool' you will get a better idea of the geography of your ever
 Scan the internet world you're in and find out that there is more. Go see the unseen!
 
 
+# CONTENT (OF REPOSITORY)
+
+sketch.pdf - shows you the first raw skechtes for such a tool
+
+
+# CONTRIBUTORS
+
+
+# SOURCES
+
+
+
+
+
+
+
 
 
 
