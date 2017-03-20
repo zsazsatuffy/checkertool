@@ -21,7 +21,9 @@ Scan the internet world you're in and find out that there is more. Go see the un
 
 # CONTENT (OF REPOSITORY)
 
-sketch.pdf - shows you the first raw skechtes for such a tool
+tool_Sketch.pdf - shows you the first raw skechtes for such a tool
+sketch_Code.pdf - first try out with code
+research_Checkers.pdf - research on factcheckers
 
 
 # CONTRIBUTORS
