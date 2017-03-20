@@ -30,8 +30,8 @@ Research_checkers.pdf - research on factcheckers
 
 # CONTRIBUTORS
 
+Marlou Bleijenberg, Sharon Hoogers, Ilse Koop en Zsa Zsa Tuffy.
 
-# SOURCES
 
 
 
