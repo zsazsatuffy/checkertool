@@ -16,7 +16,7 @@ A new tool called Hoaxy lets you search for terms and articles, and shows you ho
 
 • FactPopUp
 
-![FactPopUp](images/factPopup)
+![FactPopUp](images/factPopup.png)
 
 ￼￼• TedTalk: https://www.youtube.com/watch?v=sNV4yIyXXX0
 Markham Nolan: How to separate fact and fiction online
