@@ -27,6 +27,8 @@ Sketch_Code.pdf - first try out with code
 
 Research_checkers.pdf - research on factcheckers
 
+ToolProto.pdf - analogue prototype
+
 
 # CONTRIBUTORS
 
