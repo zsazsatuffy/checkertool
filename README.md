@@ -7,6 +7,11 @@ The proces of creating the 'checker tool'.
 Please note that this is a prototype and not a fully working code.
 
 
+# INTRODUCTION
+
+-- marlou pfdje --
+
+
 # CONCEPT DEVELOPMENT 
 
 We reflect on the Dutch elections with our 'checker tool'. 
