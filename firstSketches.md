@@ -1,3 +1,3 @@
 # First Sketches
 
-![firstsketches](images/firstSketches.jpg)
+![firstSketches](images/firstSketches.jpg)
