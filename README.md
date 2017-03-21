@@ -2,6 +2,10 @@
 
 The proces of creating the 'checker tool'.
 
+# PROTOTYPE
+
+Please note that this is a prototype and not a fully working code.
+
 
 # CONCEPT DEVELOPMENT 
 
